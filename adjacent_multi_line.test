@@ -1,8 +1,4 @@
-point 30 -50
-point 30 50
-end_line
-point 50 -50
-point 50 50
-end_line
-point 70 -50
-point 70 50
+line 30 -50 30 50
+line 50 -50 50 50
+line 70 -50 70 50
+

@@ -1,2 +1,3 @@
-point 0 20
-point 0 220
+line 0 20 0 220
+time_limit 200
+
